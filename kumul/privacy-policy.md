@@ -33,4 +33,4 @@ Kumul stores no personal data beyond the names you choose to enter and is suitab
 
 Any change to this policy will be published at this address.
 
-Contact: **amontanera@hotmail.fr**
+Contact: **albanm.apps@gmail.com**

@@ -42,4 +42,4 @@ Sentinel is not directed at children under 13.
 
 Any change to this policy will be published at this address with an updated date.
 
-Contact: **amontanera@hotmail.fr**
+Contact: **albanm.apps@gmail.com**
