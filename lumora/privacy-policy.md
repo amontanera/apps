@@ -1,6 +1,6 @@
 # Lumora — Privacy Policy
 
-*Last updated: 23 August 2026*
+*Last updated: 6 October 2026*
 
 Lumora is an ambient screen, music and podcast app for Android TV and phones. It requires no account, shows no ads, and the developer operates no server and receives no data from the app.
 
@@ -9,6 +9,8 @@ Lumora is an ambient screen, music and podcast app for Android TV and phones. It
 - **Media you point it at** — your local photos and music, or files on your own network share (SMB). They are read for playback/display only and never leave your network.
 - **Internet radio and podcasts** — streams and RSS feeds are fetched directly from their providers (and the public radio-browser directory); those third parties see your IP address like any web request.
 - **Settings** — kept locally on the device.
+- **Microphone** (optional, phone app) — used only for the live "mic" visualizer: the sound level/spectrum is computed on the phone and sent to your own Lumora TV over your local network. No audio is recorded, stored or sent to the internet.
+- **Camera** (optional, phone app) — used only to scan the pairing QR code shown by your TV. No image is stored or transmitted.
 
 ## What is never done
 
